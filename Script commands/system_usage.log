@@ -1,0 +1,18 @@
+----- Wed Nov 19 01:04:37 PM IST 2025 -----
+%Cpu(s):  7.5 us,  5.0 sy,  0.0 ni, 82.5 id,  2.5 wa,  0.0 hi,  2.5 si,  0.0 st 
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       1.9Gi        12Gi        44Mi       1.7Gi        13Gi
+Swap:          4.0Gi          0B       4.0Gi
+-------------------
+----- Wed Nov 19 01:04:42 PM IST 2025 -----
+%Cpu(s):  5.3 us,  0.0 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       1.9Gi        12Gi        44Mi       1.7Gi        13Gi
+Swap:          4.0Gi          0B       4.0Gi
+-------------------
+----- Wed Nov 19 01:04:48 PM IST 2025 -----
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       1.9Gi        12Gi        44Mi       1.7Gi        13Gi
+Swap:          4.0Gi          0B       4.0Gi
+-------------------
